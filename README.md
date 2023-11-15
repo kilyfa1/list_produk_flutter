@@ -1,16 +1,14 @@
-# mobile_flogin
+# Informasi Pribadi
 
-A new Flutter project.
+- Nama: Abdul Aziz
+- NIM: 3337220051
+- Kelas: B
+- Mata Kuliah: Sistem Pemrograman Mobile
 
-## Getting Started
+## Tampilan
 
-This project is a starting point for a Flutter application.
+-![image](https://github.com/kilyfa1/list_produk_flutter/assets/149022384/be11432c-9629-4233-b970-d134052e0588)
 
-A few resources to get you started if this is your first Flutter project:
+- ![image](https://github.com/kilyfa1/list_produk_flutter/assets/149022384/caf1cc72-0b23-44dc-94d6-30bea4fdb0ca)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
